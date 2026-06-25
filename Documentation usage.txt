@@ -1,0 +1,44 @@
+Exam platform:
+    results.vua.cloud
+    *.vua.cloud
+ 
+  Image registries:
+    hub.docker.com
+    docker.io
+    registry-1.docker.io
+    auth.docker.io
+    *.cloudflare.docker.com
+    quay.io
+    *.quay.io
+    sso.redhat.com
+    registry.access.redhat.com
+    registry.k8s.io
+    k8s.gcr.io
+    gcr.io
+    storage.googleapis.com
+ 
+  Exam materials and artifact downloads:
+    github.com
+    raw.githubusercontent.com
+    codeload.github.com
+    release-assets.githubusercontent.com
+    get.jenkins.io
+    dl.k8s.io
+ 
+  Package registries (for podman build):
+    registry.npmjs.org
+    rubygems.org
+    index.rubygems.org
+    pypi.org
+    files.pythonhosted.org
+    dl-cdn.alpinelinux.org
+    archive.ubuntu.com
+    security.ubuntu.com
+    deb.debian.org
+ 
+  Documentation:
+    docs.docker.com
+    docs.podman.io
+    kubernetes.io
+    minikube.sigs.k8s.io
+    rha.ole.redhat.com
