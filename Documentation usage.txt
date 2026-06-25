@@ -42,3 +42,5 @@ Exam platform:
     kubernetes.io
     minikube.sigs.k8s.io
     rha.ole.redhat.com
+
+*exam folder npr ili kreiramo svoj mkdir exam, uđemo u njega cd exam kreiramo yaml nano compose.yaml, pokrenemo ga podman compose up -d i tamo ostane u folderu. za zipanje zip -r exam.zip exam
